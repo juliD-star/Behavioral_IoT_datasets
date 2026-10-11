@@ -1,9 +1,8 @@
-# Behavioral IoT Dataset — reproducibility release v1.1.0 (draft)
+#Behavioral IoT Dataset — Reproducibility Materials v1.1.0
 
 Companion data and analysis materials for *Behavioral Characterization of Consumer IoT Devices through Encrypted Network Traffic Analysis for Smart-Home Security* (IEEE Access manuscript).
 
-**Release status:** prepared for review; not independently reproduced end-to-end. This package is intended to be added to the existing GitHub repository `juliD-star/Behavioral_IoT_datasets` as a **new** `v1.1.0` release. Preserve the existing `v1.0` release and its archived DOI. Do not claim this version has been archived on Zenodo until the new release appears there.
-
+**Release status:** Version 1.1.0 extends the initial Behavioral IoT Dataset (v1.0) by providing the processed feature-level dataset, Python analysis scripts, saved classification results, and supporting reproducibility documentation. The original representative PCAP captures remain available from v1.0. The materials support reproduction of the machine-learning analysis from the processed dataset; complete end-to-end reproduction from raw PCAP files has not been independently verified.
 ## Dataset
 
 `data/windows_grouped_final.csv` has **4,704 retained traffic-active one-second windows** across **eight devices** and **83 device-specific capture IDs**. It is a **feature-level** dataset, not a full set of raw packet captures. Inactive one-second intervals were excluded, so this dataset supports classification of retained traffic-active windows, not continuous detection over all time intervals.
