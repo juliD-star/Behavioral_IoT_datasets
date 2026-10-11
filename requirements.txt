@@ -1,0 +1,7 @@
+# Minimum package names inferred from original imports; versions not recovered
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+matplotlib

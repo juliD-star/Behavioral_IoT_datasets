@@ -1,0 +1,27 @@
+device,class,windows,captures
+Google Doorbell,live,514,4
+Google Doorbell,press,137,3
+Google Doorbell,motion,86,3
+Google Doorbell,idle,46,3
+Google Nest Hub,music,369,3
+Google Nest Hub,idle,360,3
+Google Nest Mini,music,367,3
+Google Nest Mini,voice,365,3
+Google Nest Mini,idle,360,3
+Ring Doorbell,live,495,4
+Ring Doorbell,press,107,3
+Ring Doorbell,idle,14,3
+Smart Bulb,color,112,3
+Smart Bulb,brightness,77,4
+Smart Bulb,toggle,57,4
+Smart Bulb,idle,21,3
+Smart Plug,on-off,26,3
+Smart Plug,on,17,3
+Smart Plug,idle,13,3
+Smart Plug,off,13,3
+Temperature Sensor,event,249,4
+Temperature Sensor,idle,86,3
+Wyze Camera,live,419,3
+Wyze Camera,idle,176,3
+Wyze Camera,motion,136,3
+Wyze Camera,reconnect,82,3

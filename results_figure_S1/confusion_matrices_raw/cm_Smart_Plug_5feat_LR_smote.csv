@@ -1,0 +1,5 @@
+,on-off,on,idle,off
+on-off,15,5,0,6
+on,5,3,4,5
+idle,0,3,3,7
+off,1,2,1,9

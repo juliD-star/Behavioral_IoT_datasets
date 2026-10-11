@@ -1,0 +1,5 @@
+,live,idle,motion,reconnect
+live,409,3,5,2
+idle,0,153,21,2
+motion,1,33,94,8
+reconnect,14,17,18,33

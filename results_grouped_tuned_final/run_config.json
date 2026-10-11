@@ -1,0 +1,21 @@
+{
+  "data": "/root/windows_grouped_final.csv",
+  "demo": "False",
+  "out": "/root/results_grouped_tuned_final",
+  "device_col": "device",
+  "label_col": "activity",
+  "group_col": "capture_id",
+  "features": "bytes_per_s,pkts_per_s,mean_pkt_size,std_pkt_size,mean_iat",
+  "feature_sets": "5",
+  "cv": "group",
+  "outer_splits": "5",
+  "methods": "none,class_weight,ros,rus,smote,smote_tomek",
+  "classifiers": "RF,SVM,LR",
+  "no_brf": "False",
+  "no_dummy": "False",
+  "no_tune": "False",
+  "devices": "None",
+  "seed": "42",
+  "n_jobs": "2",
+  "no_plots": "False"
+}
